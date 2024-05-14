@@ -1,0 +1,66 @@
+
+-----
+Test: tests/test_one_case.py::test_one_case (call)
+Start time: 2024-05-14 10:31:55.920163
+Start name method: following_a_link
+
+End time: 2024-05-14 10:31:57.103889
+End name method: following_a_link
+URL: https://sbis.ru/contacts/66-sverdlovskaya-oblast?tab=clients
+
+-----
+
+-----
+Test: tests/test_two_case.py::test_two_case (call)
+Start time: 2024-05-14 10:32:08.555932
+Start name method: following_a_link
+
+End time: 2024-05-14 10:32:09.541613
+End name method: following_a_link
+URL: https://sbis.ru/contacts/66-sverdlovskaya-oblast?tab=clients
+
+-----
+
+-----
+Test: tests/test_one_case.py::test_one_case (call)
+Start time: 2024-05-14 10:33:41.804114
+Start name method: following_a_link
+
+End time: 2024-05-14 10:33:42.421479
+End name method: following_a_link
+URL: https://sbis.ru/contacts
+
+-----
+
+-----
+Test: tests/test_two_case.py::test_two_case (call)
+Start time: 2024-05-14 10:33:54.395165
+Start name method: following_a_link
+
+End time: 2024-05-14 10:33:55.096822
+End name method: following_a_link
+URL: https://sbis.ru/contacts
+
+-----
+
+-----
+Test: tests/test_one_case.py::test_one_case (call)
+Start time: 2024-05-14 10:56:42.573947
+Start name method: following_a_link
+
+End time: 2024-05-14 10:56:43.746124
+End name method: following_a_link
+URL: https://sbis.ru/contacts
+
+-----
+
+-----
+Test: tests/test_two_case.py::test_two_case (call)
+Start time: 2024-05-14 10:56:55.471385
+Start name method: following_a_link
+
+End time: 2024-05-14 10:56:56.051062
+End name method: following_a_link
+URL: https://sbis.ru/contacts
+
+-----
