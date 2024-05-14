@@ -23,3 +23,5 @@ L
 page/sbis/SbisContactPage.py,f\5\f57035bf1fa578dfa8ca0c50710b11784c0036da
 G
 logs/log_2024-05-14.log,3\0\30a8ef6764979aca01f3b4c0e53967603cd065b6
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
